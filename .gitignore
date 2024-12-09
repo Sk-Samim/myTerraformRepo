@@ -4,3 +4,5 @@
 
 # ignore other files
 terraform.tfstate
+credentials.tf
+terraform.tfstate.backup
