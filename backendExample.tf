@@ -1,8 +1,8 @@
-resource "aws_instance" "myfirstec2" {
-  ami = "ami-0614680123427b75e"
-  instance_type = "t2.micro"
+# resource "aws_instance" "myfirstec2" {
+#   ami = "ami-0614680123427b75e"
+#   instance_type = "t2.micro"
 
-  tags = {
-    Name = "backendExampleEc2"
-  }
-}
+#   tags = {
+#     Name = "backendExampleEc2"
+#   }
+# }
